@@ -727,7 +727,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 }
 .main .logo{
     color: #FFFFFF;
-    font-size: 56px;
+    font-size: 46px;
     font-weight: 300;
     position: relative;
     text-align: center;
@@ -919,6 +919,16 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 }
 .fixed-plugin .badge-red{
     background-color: #FF3B30;
+}
+
+.margin-top-logo {
+    margin-top: 50px !important;
+}
+
+.nav-social-center {
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 @media (max-width:768px){
